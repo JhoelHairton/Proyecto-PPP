@@ -1,3 +1,22 @@
+#Comandos de git :atom:
+
+
+> git init 
+> git status
+> git commit add -A
+> git commit -m "mensaje"
+> git push
+
+#PARA TRABAJAR EN EQUIPO :atom:
+
+> git clone 
+> git branch (crea nuevas ramas)
+> git checkout (permite cambiar de ramas)
+> git branch -d (elimina una rama)
+> git merge (permite unir la rama secundaria con la principal) 
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
