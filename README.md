@@ -1,19 +1,20 @@
+> [!IMPORTANT]
 #Comandos de git :atom:
+> git init <br>
+> git status<br>
+> git commit add -A<br>
+> git commit -m "mensaje"<br>
+> git push<br><br>
 
-
-> git init 
-> git status
-> git commit add -A
-> git commit -m "mensaje"
-> git push
-
+> [!NOTE]
 #PARA TRABAJAR EN EQUIPO :atom:
+> git clone <br>
+> git branch (crea nuevas ramas)<br>
+> git checkout (permite cambiar de ramas)<br>
+> git branch -d (elimina una rama)<br>
+> git merge (permite unir la rama secundaria con la principal) <br>
 
-> git clone 
-> git branch (crea nuevas ramas)
-> git checkout (permite cambiar de ramas)
-> git branch -d (elimina una rama)
-> git merge (permite unir la rama secundaria con la principal) 
+
 
 
 
