@@ -15,6 +15,5 @@
 > `git merge `(permite unir la rama secundaria con la principal) <br>
 > `git checkout` -b nombre_de_tu_rama
 
-
-
+> RAMA DE JHOEL
 
