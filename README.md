@@ -15,57 +15,7 @@
 > `git merge `(permite unir la rama secundaria con la principal) <br>
 
 
->'holaaa soy marco 12345466 asd'
+>rama de marco Chura
 
-
-
-
-asasdasdasd 
-asdasdd 
-asdasqwee 
-
-asasdasdasd 
-asdasdd 
-asdasqwee 
-v
-v
-v
-v
-v
-
-asasdasdasd 
-asdasdd 
-asdasqwee 
-asasdasdasd 
-asdasdd 
-asdasqwee asasdasdasd 
-asdasdd 
-asdasqwee asasdasdasd 
-asdasdd 
-asdasqwee 
-asasdasdasd 
-asdasdd 
-asdasqwee 
-asasdasdasd 
-asdasdd 
-asdasqwee 
-asasdasdasd 
-asdasdd 
-asdasqwee asasdasdasd 
-asdasdd 
-asdasqwee 
-asasdasdasd 
-asdasdd 
-asdasqwee asasdasdasd 
-asdasdd 
-asdasqwee 
-
-
-asasdasdasd 
-asdasdd 
-asdasqwee 
-asasdasdasd 
-asdasdd 
-asdasqwee 
 
 
