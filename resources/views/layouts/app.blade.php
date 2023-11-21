@@ -13,11 +13,16 @@
 
         <!-- Scripts -->
         @vite(['resources/css/app.css', 'resources/js/app.js'])
+        @wireUiScripts
+        <script src="https://cdn.amcharts.com/lib/5/index.js"></script>
+        <script src="https://cdn.amcharts.com/lib/5/xy.js"></script>
+        <script src="https://cdn.amcharts.com/lib/5/themes/Animated.js"></script>
 
         <!-- Styles -->
         @livewireStyles
     </head>
     <body class="font-sans antialiased">
+        <x-dialog />
         <x-banner />
 
         <div class="min-h-screen bg-gray-100">
