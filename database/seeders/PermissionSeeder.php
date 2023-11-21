@@ -30,7 +30,7 @@ class PermissionSeeder extends Seeder
         Permission::create([
             'name'=>'Subir archivos'
         ]);
-        
+
         //Estudiante
         Permission::create([
             'name'=>'Subir documentos'
